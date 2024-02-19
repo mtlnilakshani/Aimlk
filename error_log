@@ -1,0 +1,91 @@
+[08-Feb-2024 15:58:22 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/adminlog.php:16
+Stack trace:
+#0 /home2/aimlk/public_html/adminlog.php(16): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/adminlog.php on line 16
+[08-Feb-2024 15:58:44 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/adminlog.php:16
+Stack trace:
+#0 /home2/aimlk/public_html/adminlog.php(16): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/adminlog.php on line 16
+[08-Feb-2024 15:59:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/adminlog.php:16
+Stack trace:
+#0 /home2/aimlk/public_html/adminlog.php(16): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/adminlog.php on line 16
+[08-Feb-2024 16:02:43 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Table 'aimlk_aimdata.admin' doesn't exist in /home2/aimlk/public_html/adminlog.php:30
+Stack trace:
+#0 /home2/aimlk/public_html/adminlog.php(30): mysqli->query('SELECT * FROM a...')
+#1 {main}
+  thrown in /home2/aimlk/public_html/adminlog.php on line 30
+[08-Feb-2024 16:06:33 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[08-Feb-2024 16:21:22 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[08-Feb-2024 17:21:15 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[09-Feb-2024 02:55:10 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[09-Feb-2024 06:34:09 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[10-Feb-2024 11:44:32 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 01:39:28 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 01:55:37 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 02:05:22 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 02:35:25 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 02:36:39 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 03:20:39 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 03:41:20 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 04:52:18 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 05:13:02 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 05:13:18 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 05:13:38 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 05:14:31 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 05:15:41 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 07:01:22 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 07:29:52 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 07:48:14 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 07:51:02 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[11-Feb-2024 14:01:09 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:18:49 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:19:03 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:19:18 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:19:31 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:19:56 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:34:10 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:35:01 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:36:37 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:48:16 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:48:31 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 03:48:41 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 05:19:50 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 09:30:29 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 10:37:44 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[12-Feb-2024 10:55:18 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 03:05:06 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 05:39:11 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 07:38:30 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 08:56:43 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 11:08:37 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 16:18:29 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/event.php:75
+Stack trace:
+#0 /home2/aimlk/public_html/event.php(75): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/event.php on line 75
+[13-Feb-2024 16:19:16 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/event.php:75
+Stack trace:
+#0 /home2/aimlk/public_html/event.php(75): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/event.php on line 75
+[13-Feb-2024 16:19:27 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/event.php:75
+Stack trace:
+#0 /home2/aimlk/public_html/event.php(75): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/event.php on line 75
+[13-Feb-2024 16:19:38 UTC] PHP Fatal error:  Uncaught mysqli_sql_exception: Access denied for user 'root'@'localhost' (using password: NO) in /home2/aimlk/public_html/event.php:75
+Stack trace:
+#0 /home2/aimlk/public_html/event.php(75): mysqli->__construct('localhost', 'root', Object(SensitiveParameterValue), 'aim')
+#1 {main}
+  thrown in /home2/aimlk/public_html/event.php on line 75
+[13-Feb-2024 16:50:17 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[13-Feb-2024 17:02:35 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[15-Feb-2024 03:18:30 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[15-Feb-2024 05:50:55 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[15-Feb-2024 08:17:15 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[16-Feb-2024 03:38:46 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
+[17-Feb-2024 15:36:58 UTC] PHP Warning:  Undefined array key "adminid" in /home2/aimlk/public_html/adminlog.php on line 34
